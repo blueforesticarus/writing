@@ -1,6 +1,6 @@
-# plot
+# Plot
 
-These poems are silly.
-They dont have a plot.
-Now you're just trying
-to rhyme alot.
+These poems are silly.  
+They dont have a plot.  
+Now you're just trying.  
+to rhyme alot.  
