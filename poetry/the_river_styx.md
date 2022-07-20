@@ -5,19 +5,19 @@
 and 3 times his words rang out
 against the face of tyranny
 
-and on the fourth, when he thought he'd won
+but on the fourth, when he thought he'd won
 they took him out and he was done
 
-and like the rest throughout all time
+and just like the rest throughout all time
 the people say "he crossed the line"
 
 because if not, why let him speak
 the first three calls from out his beak
 
-and those that know, they do remember
+And those that know, they will remember
 dull your words and ease your temper
 
-and 2000 times they hush their voice
-2000 times, they speak discretely
-and 2000 times they pull their blows
+and 2000 times they'll hush their voice
+2000 times, they'll speak discretely
+and 2000 times they'll pull their blows
 against the face of tyranny

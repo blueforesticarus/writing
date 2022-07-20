@@ -2,7 +2,7 @@
 
 My name is Marnie, and I live on a fence-post, next to the Manpuku shrine, near the top of Mt. Oyama, overlooking Tokyo. I never leave, because my legs are nailed to the post, and because that is how I was left. I am a doll.
 
-Sometimes, when people come to visit the shrine, they visit me as well. This is good, because all alone, a doll is just a piece of wood. But when people see a doll, it can become whatever they imagine. *Precisely*, whatever they imagine. That is the magic of a doll. 
+Sometimes, when people come to visit the shrine, they visit me as well. This is good, because all alone, a doll is just a piece of wood. But when people see a doll, it can become whatever they imagine. *Precisely*, whatever they imagine [1]. That is the magic of a doll. 
 
 Of course when it comes down to it - what I am is a doll, a simple doll. That is what most people see, and that is what I always return to. My blank slate. But I can be so much more. Children always assume I have a life, a personality, a favorite food. Sometimes I have an important job at the shrine, or a whole family of doll children. Once, I was here looking for a lost friend, and a turtle named Kurasshu had carried me on his back. Once, I moved out here because I married a squirrel! I'm always whatever people think I am. I've had so many names. But normally, when my guests can read, I am Marnie. That's my favorite. No matter how many names I'm given, Marnie is still me, and I am still Marnie. It is written on the soul of my boot. 
 
@@ -30,7 +30,7 @@ So for awhile that's what I am: the doll that watches over Tokyo. If they think 
 But most of the time I am just a piece of wood nailed to a post. Such is fate.
 I am nailed there because someone who had visited me before was sad to find me on the ground. I was on the ground a lot in those days, and people who found me would usually put me back on the fence (on one post or another), until someone had enough and thought I ought to stay on the fence, where I belonged. People always start to think something "belongs" somewhere once they have seen it a few times, and they are quite disappointed if one day it's gone. I'm not sure if if the post I'm nailed too is my original post. Everyone has long since forgotten and so have I.
 
-Who put me here? I've forgotten that too. Everybody assumes something different; it's all fuddled. To some it seems like I have always been here, and that's how it sometimes seems to me. But one thing I know, that everyone knows, is that a doll is not forever. I've got moss on my back, and rot between my joints. Eventually wood turns into dirt, and dirt isn't magic like a doll. Nobody is scared by dirt. Nobody thinks dirt is a child's toy. And nobody thanks the dirt for watching over Tokyo. One day winter will come and spring, at least for me, will not. But I'm not scared. Nobody thinks of a doll that's scared to die. That'd be a waste of the magic don't you think? I think so, anyway. I'd rather you make me a pretty dress, or an umbrella for the rain, or set a few more nails, I think the old ones are rusting out.
+Who put me here? I've forgotten that too. Everybody assumes something different; it's all fuddled. To some it seems like I have always been here, and that's how it sometimes seems to me. But one thing I know, that everyone knows, is that a doll is not forever. I've got moss on my back, and rot between my joints. Eventually wood turns into dirt, and dirt isn't magic like a doll. Nobody is scared by dirt. Nobody thinks dirt is a child's toy. And nobody thanks the dirt for watching over Tokyo, even if perhaps they should. One day winter will come and spring, at least for me, will not. But I'm not scared. Nobody thinks of a doll that's scared to die. That'd be a waste of the magic don't you think? I think so, anyway. I'd rather you make me a pretty dress, or an umbrella for the rain, or set a few more nails, I think the old ones are rusting out.
 
 Or maybe a little sign. 
 Just a little one, and it could say:
@@ -45,5 +45,4 @@ Just a little one, and it could say:
 ------
 
 1. A doll can be, and always is: anything, everything, and not ever any more nor less than what a human being sees.
-2. 
 
