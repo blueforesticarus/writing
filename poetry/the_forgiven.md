@@ -15,7 +15,7 @@ can do nothing
 Though some people  
 feel we should  
 
-For the buerocrats  
+While the buerocrats  
 that run it  
 and would do nothing  
 if they could  
