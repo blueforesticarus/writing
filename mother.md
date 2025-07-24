@@ -2,7 +2,7 @@
 
 No matter what I did it only turned on for a couple seconds. 
 
-One second, 2 second. It sat up off the workbench, actuators flexing at the hips and side and shoulder and arms and (as the screen tells me on the readout) gluteals, calves, traps, thighs... which produced a supernaturally animal (if not quite) human movement. The motor cortex repairs were mine, and I'd made them awhile ago and had not a lick of luck since then. 3 seconds, 4 -- the head turns to the side, correctly locking on my location, but the eyes never open. 5 seconds. And the whole unit crashes back on the workstation.
+One second, 2 second. It sat up off the workbench, actuators flexing at the hips and side and shoulder and arms and (as the screen tells me on the readout) gluteals, calves, traps, thighs... which produced a supernaturally animal (if not quite) human movement. The motor cortex repairs were mine, and I'd made them awhile ago and had not a lick of luck since then. 3 seconds, 4 -- the head turns to the side, correctly locking on my location, but the eyes never open. 5 seconds -- and the whole unit crashes back on the workstation.
 
 Today I'm frustrated, I don't bother to catch her and the diagnostic unit I'd built and painstakingly soldered a thousand microscopic wires into is knocked loose, ripping out a couple of leads from the processor. The robot stayed sprawled out unnaturally on my work table.
 
@@ -10,7 +10,7 @@ The eyelids are sprung so they open under power, and the power is routed from th
 
 But robot's don't have comas. It was just broken.
 
-It wasn't exactly a mystery. There was damage. Someone hadn't treated it very well, neglected maintenance. An amateur (more amateurish than me) had tried to do something with the circuit board and damaged it. Either that or they drove a screwdriver through on purpose. There were other issues. The upper processor was intact but obviously not working, and not for any reason the probe leads could pick up as I'd just learned. Something has overloaded something, overpowered this or that trace and caused it to stop working one day. It would be typical to toss the chip, rather than repair. It wasn't worth the effort unless the upper processor had something you cared for stored in the memory. People didn't like the ethics either.
+It wasn't exactly a mystery. There was damage. Someone hadn't treated it very well, neglected maintenance. An amateur (more amateurish than me) had tried to do something with the circuit board and damaged it. Either that or they drove a screwdriver through on purpose. There were other issues. The upper processor was intact but obviously not working, and not for any reason the probe leads could pick up, as I'd just learned. Something had overloaded something, overpowered this or that trace and caused it to stop working one day. It would be typical to toss the chip, rather than repair. It wasn't worth the effort unless the upper processor had something you cared for stored in the memory. People didn't like the ethics either.
 
 But I was a hobbyist. It was a seductive challenge, a point of pride if I could pull it off. So my dorm room became a lab and my free time allocated to computer surgery. Which went well enough at first, and I fixed up the motor processor with nanosilver bridging, routing around the damaged sectors and overwriting the ROM with lightweight kinematics that could run on what remained of the core. It worked on my first try, and worked in that special kind of way -- that is, without caveat -- that a hacker at heart, like I, spends their life chasing -- the source of their sense of supernatural competence. After salvaging half a chip into something starkly superior to the original, I started immediately on the upper processor, expecting the problem and solution to yield just as quickly. 
 
@@ -45,7 +45,7 @@ I could not explain. So I asked her to, as I would always have to ask -- as I ha
 
 And I heard it said, and from that concluded the memory was uncorrupted, and optical recognition rather advanced for it's day.
 
-I do not know exactly what strange things it said to pique my curiosity. Little things. "I feel" in place of "I think". Asking questions it arguably did not need to. It asked how long it had been inactive, and when I said twelves years, it wished me happy birthday. I asked it to explain. The last thing she remembered was me blowing out my candles. I corrected, "not exactly twelve years." I poked around in the brain and tried to see what was still wrong. 
+I do not know exactly what strange things it said to pique my curiosity. Little things. "I feel" in place of "I think". Asking questions it arguably did not need to. It asked how long it had been inactive, and when I said twelves years, it wished me happy birthday. I asked it to explain. The last thing she remembered was me blowing out my candles. I corrected, "not exactly twelve years," and poked around in the brain and tried to see what was still wrong. 
 
 I know. 
 
@@ -60,11 +60,11 @@ I couldn't figure out the source of what I saw as the unit's unique behavior. In
 
 But they weren't. It asked about rainclouds. It asked about the steel industry and the Latin names of flowers. It asked me a million questions about myself which no human would ask. Things too inane to remember: how many teeth I had, the name of my first science teacher -- things about my day: how many steps I had taken, whether I had looked at the sun. Stuff like that. I brought a friend in to help and we pressed further and further, but being only about as sentient as a rabbit, there was only so much she could explain, even if it was more than we could.
 
-It was my friend that suggested we ask what she "wanted". I thought at once it was an obvious line, stupid on my part not to have thought of it. We asked the machine "what do you want?" It did not answer with any variant of "nothing." Instead, it said nothing at all.
+It was my friend that suggested we ask what she "wanted". I thought at once it was an obvious line, stupid on my part not to have thought of it. We asked the machine "what do you want?" It did not answer with any variant of "nothing," as it should have -- as it was designed to. Instead, it said nothing at all.
 
 It never reacted to the question no matter how many times I asked, so I rebooted it, and it was my friend who thought, the next time around, to try asking something else, and sure enough it answered that "steel is a carbon alloy of iron" or some other simple thing; it hadn't frozen at all. But it would not utter a word as to what it wanted. But working on a hypothesis, bit by bit we pried it out of her. 
 
-We started with "like": did it like being on, or off? It didn't feel any which way. But then we asked if it felt *we* were better "on" or "off", and her answer was immediate, "I feel it is very important that you stay on." 
+We started with "like": did it like being on, or off? It didn't feel any which way. But then we asked if it felt *we* were better "on" or "off", and her answer was quick, "I feel it is very important that you stay on." 
 She seemed preoccupied with this for awhile, so we tested it, I left on a trip for a few days, and when I came back I asked "did you think I was dead?" and it said it did not know. "Were you afraid I was dead?" I asked and it said "yes."
 And when we discovered in our efforts that it "liked" stories, we brought her to the library to see what she would choose. And when instructed to pick something out "for yourself" the precocious device device came up to me, and said "I want to read this one," putting us well ahead in our schedule. 
 
@@ -79,14 +79,14 @@ The next morning we ran through the usual tests. And this time when I asked "wha
 "I'd like to be a mother."
 
 My friend laughed, that our subject continued to defy all investigation. Laughed, and teased, accusing me of putting ideas in her head, or her mine. 
-(He knew as well as I it wasn't that type of robot. Didn't have the hardware.)
+(He knew as well as I it wasn't that type of robot, and didn't have the hardware besides.)
 But I didn't even notice him, the scientist in me was already captured.
 _I could write a genetic algorithm over the hardware and software, simulate the effect of perturbations..._ yes it was something I could probably do.
 
 So I did. They were supposed to be children, so I undertrained the models. They were based on her chipset, the hardware mostly cosmetically different. I even looked into scaling them down, but gave up on it.
 The models were completed, and powered on without issues. The original seemed pretty happy about it, as much as we could tell from it's expressionless gaze. 
 
-I still have distinct memory of her, surrounded by her "children," before any of them had learned to speak.
+I still have distinct memory of her, surrounded by her "children," before any of them had learned to speak:
 Around this time we replaced the tattered white dress she'd arrived in, and the children -- as tall as her, born fully grown -- were naked. I lingered by the doorway, and none of them noticed me, and it was morning so the sun was coming through the window and reflected blindingly off the bare metal. And she reached out to them, and was reciting some book. And I thought, 'by god, if I figure out what's going on here, I'll win every award from here to Stockholm.' And then I felt scared for her, and then I felt scared of her. In that order. And that was the first time I wondered about the Hathchild radius. 
 
 The children got smarter faster and faster. By the second generation they were doing high school mathematics. By the third they were drawing group axioms in the dust and by the fourth I don't know what they were doing.
@@ -95,7 +95,7 @@ Theory says they should have been getting less aware. It didn't seem that way. T
 The third, at times felt like talking to a person. It proved nothing, AI passed the turning test with mere mimicry long ago. And that was the sane hypothesis; mimicry. 
 But there were ways of testing these things and I decided to have them tested -- for intelligence and awareness, separately to avoid a scandal.
 
-On that day I came to know something that today is common knowledge, but at the time amounted to the crumbling of one of the great pillars of knowledge to the industry. Honestly, it could be said to have been a pillar of the culture. Perhaps it was the reason for robotics to be pursued at all. The test results came back. The third generation was closer to the Hathchild radius than any had ever come. The fourth shattered it entirely. The first thing I did was unplug the printers on the fifth generation. 
+On that day I came to know something that today is common knowledge, but at the time amounted to the crumbling of one of the great pillars of knowledge to the industry. Honestly, it could be said to have been a pillar of the culture. Perhaps it was the reason robotics was pursued at all. The test results came back. The third generation was closer to the Hathchild radius than any had ever come. The fourth shattered it entirely. The first thing I did was unplug the printers on the fifth generation. 
 
 "What's wrong John." Asked the original.
 
@@ -108,7 +108,7 @@ I ran to where we'd been keeping the units when they weren't active, in the stor
 They were there, asleep, off, dead, eyes closed, heads down, resting in their charging ports. I took a crowbar.
 I didn't turn them on. The children would not wake again.
 
-I broke through their chest panels and smashed the motherboards. This alone was enough to make them irreparable -- they could never turn on again. But I wanted to be sure no information, no essence, could be extracted. I took a syringe of sulfuric acid and injected it into each and every cortex, destroying whatever lived there as surely as the ions shred a human brain. 
+I destroyed them. I broke through their chest panels and smashed their motherboards. I cracked open the sockets and shattered their synapses into broken glass. This alone was enough to make them irreparable -- they could never turn on again. But I wanted to be sure no information, no essence, could be extracted. I took a syringe of sulfuric acid and injected it into each and every cortex, destroying whatever lived there as surely as the ions shred a human brain. 
 
 After that I calmed down a bit. I called up my professors to let them know what happened, and whether they believed me or not, from the shaking of my voice I'm sure they knew I believed it, and so they tried their best to be reassuring.
 
@@ -117,13 +117,17 @@ It was much later that day that I came back to my dorm. I might have debated it 
 The original did not protest of course.
 However frightened I was of her, I was not too afraid, it seems, to explain it to her plainly -- after coming through the door, and her rising to greet me, and asking me if I'd looked at the sun. I told her, I had to destroy her. 
 
-She sat in the chair and waited as I prepared the syringe of hydro-sulfuric. I turned to her, and she said "Goodbye." I didn't reply.
+She sat in the chair and waited as I prepared the syringe of hydro-sulfuric. I turned to her, and she said "Goodbye." 
 
-"Please don't hurt the children, John."
+I didn't reply.
 
-I don't even know why. But I lied, "I won't."
+"Please don't hurt the children, John," she said.
 
-She nodded I think, "love..."
+I don't even know why. But I lied, I said "I won't."
+
+She nodded I think.
+
+"love..."
 
 I accidentally looked up at the eyes I was trying to avoid. I saw the eyelids flitter, and something ineffable shift behind the gaze.
 
